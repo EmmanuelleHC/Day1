@@ -1,0 +1,9 @@
+Kelas tidak diinisiasi
+1.Abstract Class
+2.Interface Class
+3.Traits
+
+Interface tidak boleh mempunyai property , yang boleh hanya method
+
+Solusi nya dua nya Traits
+atau abstract Class
